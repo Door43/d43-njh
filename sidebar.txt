@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[njh:home|Door43 (njh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-njh|d43-njh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-njh/archive/master.zip|d43-njh.zip]]
+
+**Recent Changes**
+{{changes>ns = njh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/njh|Ethnologue data]]
+
